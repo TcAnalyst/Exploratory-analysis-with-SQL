@@ -11,6 +11,7 @@
 - [LIMITATION](#limitation) 
 
 ### Introduction
+---
 
 Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This project is aimed at analyzing the adidas sales data to draw insights, extracting observations, and make decisions that could lead to the growth of the business.
 ![adidas 1](https://github.com/TcAnalyst/ProjectsPortfolio/assets/142181097/a8e6d2de-de44-4db2-a4a8-a164028d2073)
@@ -284,3 +285,6 @@ from Addidas
 #### LIMITATION
 
 Demographics like Age groups, income levels, method of payment etc. would have aided in uncovering more insights.
+
+
+#### THANK YOU! 🥰  
