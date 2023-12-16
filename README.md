@@ -31,7 +31,7 @@ Adidas sales dataset is a collection of data that includes information on the sa
 - Operating Margin: The percentage of operating profit in relation to total sales
 - Sales Method: The method or channel through which the sales transaction occurred
 
-#### Data source
+### Data source
 [Download here](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data)
 
 ### Tool used: MS SQL SERVER
