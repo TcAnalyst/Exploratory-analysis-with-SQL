@@ -31,7 +31,8 @@ Adidas sales dataset is a collection of data that includes information on the sa
 - Operating Margin: The percentage of operating profit in relation to total sales
 - Sales Method: The method or channel through which the sales transaction occurred
 
-#### Data source: [Download here](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data)
+#### Data source
+[Download here](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data)
 
 ### Tool used: MS SQL SERVER
 
@@ -200,7 +201,7 @@ select month, sum(profit) MonthlyProfit
 ```
 Highest profit of $34.5m was made in the month of August with July not being far of with a profit of $34m. December and September also recorded good profit of $31.5 and $31m respectively. March generated the least profit of $20.4m.
 
-#### FINDINGS ;
+#### FINDINGS
 
 1. most cities with low profit, don't have all the purchasing method available to customers. The query below returns the sales method for each of the cities in the bottom list of profits generated.
 ```sql
@@ -249,6 +250,6 @@ from Addidas
 3. The demographics of the population in each city can be investigated. Age groups, income levels, and lifestyle preferences can influence sportswear purchasing behavior.
 4. Lesser production of sport wears from December through the first quarter of a new year is recommended because this period is when the United States is the coldest.
 
-#### LIMITATION ;
+#### LIMITATION
 
 Demographics like Age groups, income levels, method of payment etc. would have aided in uncovering more insights.
