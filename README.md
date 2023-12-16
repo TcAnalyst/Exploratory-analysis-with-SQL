@@ -1,5 +1,15 @@
 # Analyzing Adidas sales with SQL
 
+#### Table of content
+- [Introduction](introduction)
+- [Data Description](data-description)
+- [Data source](data-source)
+- [Data importation and cleaning](data-importation-and-cleaning)
+- [Data exploration and analysis](data-exploration-and-analysis) 
+- [FINDINGS](findings)
+- [RECOMMENDATIONS](recommendations)
+- [LIMITATION](limitation) 
+
 ### Introduction
 
 Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This project is aimed at analyzing the adidas sales data to draw insights, extracting observations, and make decisions that could lead to the growth of the business.
@@ -110,7 +120,6 @@ select year,sum(TotalSales) YearlySales
  order by 2 desc;
 ```
 In 2021, $717,821,450 was realised from sales , a 75% increase from the previous year.
-
 
 
 #### profit analysis;
