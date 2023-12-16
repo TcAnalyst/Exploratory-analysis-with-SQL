@@ -1,4 +1,4 @@
-# Analyzing Adidas sales with SQL
+# **Analyzing Adidas sales with SQL**
 
 #### Table of content
 - [Introduction](#introduction)
@@ -71,7 +71,7 @@ having count(*) > 1;
 0 rows returned, which implies that there are no duplicate rows.
 
 ### Data exploration and analysis
-#### sales analysis;
+#### *sales analysis;*
 
 1. what are the products sold and how many are they?
 ```sql
@@ -138,7 +138,7 @@ select year,sum(TotalSales) YearlySales
 In 2021, $717,821,450 was realised from sales , a 75% increase from the previous year.
 
 
-#### profit analysis;
+#### *profit analysis;*
 
 1. What was the total profit generated in general?
 ```sql
