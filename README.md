@@ -1,14 +1,14 @@
 # Analyzing Adidas sales with SQL
 
 #### Table of content
-- [Introduction](introduction)
-- [Data Description](data-description)
-- [Data source](data-source)
-- [Data importation and cleaning](data-importation-and-cleaning)
-- [Data exploration and analysis](data-exploration-and-analysis) 
-- [FINDINGS](findings)
-- [RECOMMENDATIONS](recommendations)
-- [LIMITATION](limitation) 
+- [Introduction](#introduction)
+- [Data Description](#data-description)
+- [Data source](#data-source)
+- [Data importation and cleaning](#data-importation-and-cleaning)
+- [Data exploration and analysis](#data-exploration-and-analysis) 
+- [FINDINGS](#findings)
+- [RECOMMENDATIONS](#recommendations)
+- [LIMITATION](#limitation) 
 
 ### Introduction
 
